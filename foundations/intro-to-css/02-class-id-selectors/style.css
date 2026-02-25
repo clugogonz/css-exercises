@@ -9,6 +9,8 @@
     font-size: 24px;
 }
 
+/*the above is slightly incorrect, instead I should have styled the .cool class separately and it still would have worked*/
+
 #second{
     color: #52B2CF;
     font-size: 36px;
